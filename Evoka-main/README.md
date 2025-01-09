@@ -76,7 +76,7 @@ npm run dev
 
 ## AI Agents
 
-### Neo Blackwood - Web Development Specialist
+### Jim Blackwater- Web Development Specialist
 <div align="center">
   <img src="frontend/public/web_dev.png" alt="Neo Blackwood" width="150"/>
 </div>
@@ -88,7 +88,7 @@ npm run dev
   - Visionary frontend experiences
   - Cutting-edge architectural strategies
 
-### Dave "Bitmap" Wilson - Game Development Expert
+### David Soreno - Game Development Expert
 <div align="center">
   <img src="frontend/public/game_dev.png" alt="Dave Wilson" width="150"/>
 </div>
