@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="frontend/public/Evoka_logo.png" alt="Evoka AI Logo" width="200"/>
+  <img src="frontend/public/logo.png" alt="Evoka AI Logo" width="200"/>
 
   # EvokaAi - AI Developer Agent Platform
 
