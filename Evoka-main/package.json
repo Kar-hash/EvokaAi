@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/api/server.js",
-    "dev": "ts-node-dev --respawn --transpile-only src/api/server.ts",
+    "dev": "ts-node-dev --respawn --transpile-only backend/src/api/server.ts",
     "test": "jest"
   },
   "dependencies": {
