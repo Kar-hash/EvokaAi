@@ -29,6 +29,9 @@
   </h3>
 </div>
 
+
+CA: 
+
 ## Features
 
 - 🤖 Advanced AI Agents specialized in web and game development
